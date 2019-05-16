@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61833dd-8afc-4396-9041-16e8a11ceac3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRProblem/lesson1/task1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/lesson1/task1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRProblem/lesson1/task1/test/Tests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/lesson1/task1/test/Tests.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/lesson1/task1/out/" />
@@ -35,7 +43,9 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState />
+                <MainEditorState relative-caret-position="96">
+                  <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+                </MainEditorState>
               </EduEditorState>
             </state>
           </provider>
@@ -46,9 +56,10 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState>
+                <MainEditorState relative-caret-position="197">
+                  <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
                   <folding>
-                    <element signature="e#0#45#0" expanded="true" />
+                    <element signature="e#0#94#0" expanded="true" />
                   </folding>
                 </MainEditorState>
               </EduEditorState>
@@ -68,13 +79,15 @@
         <option value="$PROJECT_DIR$/lesson1/graphs/test/GraphAsListTests.kt" />
         <option value="$PROJECT_DIR$/lesson1/graphs/src/GraphAsList.kt" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/HRProblem/lesson1/task1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/HRProblem/lesson1/task1/test/Tests.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="244" />
+    <option name="x" value="690" />
     <option name="y" value="23" />
-    <option name="width" value="966" />
+    <option name="width" value="623" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -115,51 +128,7 @@
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Course">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-              <item name="HRProblem" type="60ae2bef:CCSectionNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-              <item name="HRProblem" type="60ae2bef:CCSectionNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-              <item name="HRProblem" type="60ae2bef:CCSectionNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="task1" type="83e62b93:CCTaskNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-              <item name="HRProblem" type="60ae2bef:CCSectionNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="task1" type="83e62b93:CCTaskNode" />
-              <item name="src" type="7e263673:CCNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="a264ea2a:RootNode" />
-              <item name="algorithms" type="ef639090:CCCourseNode" />
-              <item name="HRProblem" type="60ae2bef:CCSectionNode" />
-              <item name="lesson1" type="e994c609:CCLessonNode" />
-              <item name="task1" type="83e62b93:CCTaskNode" />
-              <item name="test" type="7e263673:CCNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.Test.testGraphAsList">
+  <component name="RunManager" selected="Android JUnit.Test.testHRAssignment">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -244,6 +213,17 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test.testHRAssignment" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRProblem-lesson1-task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testHRAssignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -267,6 +247,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.Test.testHRAssignment" />
         <item itemvalue="Android JUnit.Test.testGraphAsList" />
         <item itemvalue="Android JUnit.BacktrackingTest" />
       </list>
@@ -304,12 +285,22 @@
     <history-entry file="Test_testGraphAsList - 2019.05.15 at 15h 39m 40s.xml">
       <configuration name="Test.testGraphAsList" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="Test_testHRAssignment - 2019.05.16 at 15h 11m 23s.xml">
+      <configuration name="Test.testHRAssignment" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testHRAssignment - 2019.05.16 at 15h 11m 50s.xml">
+      <configuration name="Test.testHRAssignment" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testHRAssignment - 2019.05.16 at 15h 12m 25s.xml">
+      <configuration name="Test.testHRAssignment" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="244" y="23" width="966" height="777" extended-state="0" />
+    <frame x="690" y="23" width="623" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2391775" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.23857868" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -318,11 +309,11 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.48759124" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.48759124" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.53138685" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -391,7 +382,9 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState />
+            <MainEditorState relative-caret-position="96">
+              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+            </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
@@ -400,9 +393,10 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState>
+            <MainEditorState relative-caret-position="197">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#0#94#0" expanded="true" />
               </folding>
             </MainEditorState>
           </EduEditorState>
