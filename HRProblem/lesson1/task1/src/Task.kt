@@ -2,6 +2,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 /**
  * Classic Hospitals-Residents assignment problem
+ * Reference: http://www.nrmp.org/matching-algorithm/
  */
 object HRProblem{
 
