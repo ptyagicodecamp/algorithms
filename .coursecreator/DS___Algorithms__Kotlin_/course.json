@@ -1,0 +1,77 @@
+{
+  "summary" : "Data Structures and Algorithms using Kotlin.",
+  "title" : "DS & Algorithms (Kotlin)",
+  "programming_language" : "kotlin",
+  "language" : "en",
+  "course_type" : "PyCharm",
+  "items" : [
+    {
+      "title" : "lesson1",
+      "task_list" : [
+        {
+          "name" : "task1",
+          "files" : {
+            "src/Task.kt" : {
+              "name" : "src/Task.kt",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "// type your solution here"
+            },
+            "test/Tests.kt" : {
+              "name" : "test/Tests.kt",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "import org.junit.Assert\nimport org.junit.Test\n\nclass Test {\n    @Test fun testSolution() {\n        //TODO: implement your test here\n        Assert.assertTrue(\"Tests not implemented for the task\", false)\n    }\n}"
+            }
+          },
+          "description_text" : "<html>\nWrite your task text here.\n<div class=\"hint\">\n  Hints can be added anywhere in task text: type \"hint\" and press Tab.\n</div>\n</html>",
+          "description_format" : "HTML",
+          "feedback_link" : {
+            "link_type" : "STEPIK"
+          },
+          "task_type" : "edu"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "additional_files" : [
+    {
+      "name" : "lesson1/graphs/src/GraphAsList.kt",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "import java.util.*\n\n/**\n * Represent graph as Adjacency List using LinkedList\n * Reference: https://www.geeksforgeeks.org/graph-and-its-representations/\n */\nclass GraphAsList(vertices: Int) {\n    var arrayOfAdjacencyList = LinkedList<LinkedList<Int>>()\n    val numNodes = vertices\n    init {\n        //each vertex has its own LinkedList to hold it's edges\n        for (vertex in 0 until numNodes) {\n            arrayOfAdjacencyList.add(vertex, LinkedList())\n        }\n    }\n\n    fun addEdge(graphAsList: GraphAsList, source: Int, dest: Int) {\n        //undirected graph has two entries for each edge in both directions\n        graphAsList.arrayOfAdjacencyList[source].add(dest)\n        graphAsList.arrayOfAdjacencyList[dest].add(source)\n    }\n\n    fun printGraph()  {\n        for (i in 0 until numNodes) {\n            print(\"Adjacency list for node: \" + i)\n            for (edge in arrayOfAdjacencyList[i]) {\n                print(\" --> \" + edge)\n            }\n\n            println()\n        }\n    }\n}"
+    },
+    {
+      "name" : "lesson1/graphs/src/Backtracking.kt",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "import com.sun.org.apache.xpath.internal.operations.Bool\n\n// type your solution here\nobject Backtracking {\n    //number of vertices in graph\n    val numNodes = 4\n\n    //Holds color assigned to each vertex\n    var colorAssignments = emptyArray<Int>()\n\n    //check if it's okay to assign color to a vertex\n    fun isOk(node: Int, graph: Array<Array<Int>>, colors: Array<Int>, c: Int): Boolean {\n\n        for (i in 0 until numNodes) {\n            //Neighboring vertex with same color is not acceptable,\n            //because that means vertices are connected in same subset.\n            //graph[k][l] = 1 //Edge\n            if (graph[node][i] == 1 && c == colors[i]) return false\n        }\n        return true\n    }\n\n    //m is number of subset/colors\n    //Returns false, if assignment fails.\n    //Returns true, if color assignment is finished for all nodes\n    fun assignColorToNode(node: Int, graph: Array<Array<Int>>, colors: Array<Int>, m: Int): Boolean {\n\n        //return true if all vertices are assigned a color\n        if (node == numNodes) {\n            return true\n        }\n\n        //try assigning all available colors\n        for (c in 1..m) {\n            if (isOk(node, graph, colors, c)) {\n                colors[node] = c\n\n                //try assigning color to next node\n                if (assignColorToNode(node+1, graph, colors, m)) return true\n\n                //if color assignment is not achieved and control comes here, then backtrack\n                colors[node] = 0\n            }\n        }\n\n        return false\n    }\n\n    //color graphs for m number of colors\n    fun colorGraph(graph: Array<Array<Int>>, m: Int): Boolean {\n        //reset color assignment array\n        colorAssignments = Array(numNodes) {i -> 0}\n\n        //start from first node\n        if (!assignColorToNode(0, graph, colorAssignments, m)) {\n            println(\"No solution exists\")\n            return false\n        }\n\n        for (i in 0 until numNodes) {\n            print(\"     \" + \"[\"+i+\"]\" + colorAssignments[i] + \"     \")\n        }\n        println()\n        return true\n    }\n\n    fun isGraphBipartite(graph: Array<Array<Int>>): Boolean {\n        //Bipartite graph has 2 subsets\n        var m = 2\n        return colorGraph(graph, m)\n    }\n}"
+    },
+    {
+      "name" : "lesson1/graphs/test/BacktrackingTest.kt",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "import org.junit.Assert\nimport org.junit.Test\n\n\nclass BacktrackingTest {\n\n    @Test fun testBacktracking() {\n        var graph = arrayOf(\n                arrayOf(0, 1, 0, 1),\n                arrayOf(1, 0, 1, 0),\n                arrayOf(0, 1, 0, 1),\n                arrayOf(1, 0, 1, 0)\n                )\n        //number of colors (disjoint sets, partitions)\n        val m = 3\n\n        var result = Backtracking.colorGraph(graph, m)\n\n        Assert.assertTrue(\"Coloring Graph\", result)\n    }\n\n    @Test fun testBipartiteGraph() {\n        var graph = arrayOf(\n                arrayOf(0, 1, 0, 1),\n                arrayOf(1, 0, 1, 0),\n                arrayOf(0, 1, 0, 1),\n                arrayOf(1, 0, 1, 0)\n        )\n\n        var result = Backtracking.isGraphBipartite(graph)\n\n        Assert.assertTrue(\"Coloring Graph\", result)\n    }\n}"
+    },
+    {
+      "name" : "lesson1/graphs/test/GraphAsListTests.kt",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "import org.junit.Assert\nimport org.junit.Test\n\nclass Test {\n    @Test fun testGraphAsList() {\n\n        //create a graph\n        var numNodes = 5\n        var graphAsList = GraphAsList(numNodes)\n        graphAsList.addEdge(graphAsList, 0, 1)\n        graphAsList.addEdge(graphAsList, 0, 4)\n        graphAsList.addEdge(graphAsList, 1, 2)\n        graphAsList.addEdge(graphAsList, 1, 3)\n        graphAsList.addEdge(graphAsList, 1, 4)\n        graphAsList.addEdge(graphAsList, 2, 3)\n        graphAsList.addEdge(graphAsList, 3, 4)\n\n        graphAsList.printGraph()\n\n    }\n}"
+    },
+    {
+      "name" : "readme.md",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "TODO\nhttps://www.geeksforgeeks.org/maximum-bipartite-matching/\nhttps://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/\nhttps://www.geeksforgeeks.org/hopcroft-karp-algorithm-for-maximum-matching-set-1-introduction/"
+    },
+    {
+      "name" : "build.gradle",
+      "placeholders" : [ ],
+      "is_visible" : true,
+      "text" : "buildscript {\n    ext.kotlin_version = '1.3.31'\n\n    repositories {\n        mavenCentral()\n        \n    }\n\n    dependencies {\n        classpath \"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version\"\n    }\n}\n\ndef printOutput(def output) {\n    return tasks.create(\"printOutput\") {\n        for (line in output.toString().readLines()) {\n            println \"#educational_plugin\" + line\n        }\n    }\n}\n\nsubprojects {\n    apply plugin: 'application'\n    apply plugin: 'java'\n    apply plugin: 'kotlin'\n\n    sourceCompatibility = 1.8\n\n    repositories {\n        mavenCentral()\n        \n    }\n\n    dependencies {\n        compile \"org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version\"\n        testCompile group: 'junit', name: 'junit', version: '4.12'\n    }\n\n    compileKotlin.destinationDir = compileJava.destinationDir\n\n    compileKotlin {\n        kotlinOptions.jvmTarget = \"1.8\"\n    }\n    compileTestKotlin {\n        kotlinOptions.jvmTarget = \"1.8\"\n    }\n\n    sourceSets {\n        main {\n            kotlin.srcDir 'src'\n            java.srcDir 'src'\n        }\n        test {\n            kotlin.srcDir 'test'\n            java.srcDir 'test'\n        }\n    }\n\n    mainClassName = project.hasProperty(\"mainClass\") ? project.getProperty(\"mainClass\") : \"\"\n\n    test {\n        outputs.upToDateWhen { false }\n        afterTest { TestDescriptor test, TestResult result ->\n            if (result.resultType == TestResult.ResultType.FAILURE) {\n                def message = result.exception?.message ?: \"Wrong answer\"\n                def lines = message.readLines()\n                println \"#educational_plugin FAILED + \" + lines[0]\n                lines[1..-1].forEach { line ->\n                    println \"#educational_plugin\" + line\n                }\n                // we need this to separate output of different tests\n                println\n            }\n        }\n    }\n\n    def runOutput = new ByteArrayOutputStream()\n    tasks.run.setStandardOutput(runOutput)\n    tasks.run.doLast { printOutput(runOutput) }\n}\n\nproject(':util') {\n    dependencies {\n        compile group: 'junit', name: 'junit', version: '4.12'\n    }\n}\n\nconfigure(subprojects.findAll {it.name != 'util'}) {\n  dependencies {\n    compile project(':util').sourceSets.main.output\n    testCompile project(':util').sourceSets.test.output\n  }\n}\n\ntask wrapper(type: Wrapper) {\n  gradleVersion = '4.10'\n}\n"
+    }
+  ],
+  "version" : 11
+}
