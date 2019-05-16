@@ -11,17 +11,27 @@ class Test {
         var h2 = Hospital("H2", 2)
         var h3 = Hospital("H3", 2)
 
+        var r1 = Resident("R1")
+        var r2 = Resident("R2")
+        var r3 = Resident("R3")
+
+
         var listOfHospitals = arrayListOf<Hospital>(
-                h1, h2, h3
-        )
+                h1.apply {
+                    residentsPreferred = arrayListOf(r1) },
+                h2.apply {
+                    residentsPreferred = arrayListOf(r2) },
+                h3.apply {
+                    residentsPreferred = arrayListOf(r3) }
+                )
 
 
         var listOfResidents = arrayListOf<Resident>(
-                Resident("R1").apply {
+                r1.apply {
                     hospitalsPreferred = arrayListOf(h1, h3)},
-                Resident("R2").apply {
+                r2.apply {
                     hospitalsPreferred = arrayListOf(h2, h3)},
-                Resident("R3").apply {
+                r3.apply {
                     hospitalsPreferred = arrayListOf(h1, h2)}
         )
 
