@@ -17,27 +17,60 @@ object HRProblem{
 
         while (residents.isNotEmpty()) {
             var resident = residents.removeAt(0)
+            println("\nNew Resident trial for " + resident.name + "\n")
 
             while (resident.hospitalsPreferred.isNotEmpty()) {
                 var potentialHospital = resident.hospitalsPreferred.removeAt(0)
+                println("\nMatching resident: " + resident.name + " with " + potentialHospital.name)
 
+                if (potentialHospital.considerResident(resident)) {
+                    var removedResident = potentialHospital.acceptResident(resident)
+                    if (removedResident != null) {
+                        print("re-queued: " + removedResident!!.name + " for " + potentialHospital.name)
+                        //unmatched resident goes back in pool to be re-considered again fo next best match
+                        residents.add(0, removedResident)
+                        break
+                    }
+                    else {
+                        println("Tentative match found: " + resident.name + " with " + potentialHospital.name)
+                        break
+                    }
+
+                    //resident.hospitalsPreferred = resident.hospitalsPreferred
+                } else {
+                    print("Hospital didn't consider : " + resident.name + " with " + potentialHospital.name)
+                }
+            }
+        }
+
+        return hospitals
+    }
+
+    fun matchResidentsToHospitalsv(listOfResidents: ArrayList<Resident>,
+                                  listOfHospitals: ArrayList<Hospital>): ArrayList<Hospital> {
+
+        var residents = listOfResidents
+        var hospitals = listOfHospitals
+
+        while (residents.isNotEmpty()) {
+            var resident = residents.removeAt(0)
+            println("\nNew Resident trial for " + resident.name + "\n")
+
+            while (resident.hospitalsPreferred.isNotEmpty()) {
+                var potentialHospital = resident.hospitalsPreferred.removeAt(0)
                 if (potentialHospital.considerResident(resident)) {
                     var removedResident = potentialHospital.acceptResident(resident)
                     if (removedResident != null) {
                         //unmatched resident goes back in pool to be re-considered again fo next best match
                         residents.add(0, removedResident)
                     }
-                    resident.hospitalsPreferred = resident.hospitalsPreferred
+                    break
                 }
-
             }
-
         }
 
         return hospitals
     }
-
-
 }
 
 class Resident(residentName: String) {
@@ -79,9 +112,10 @@ class Hospital(hospitalName: String, limit: Int) {
             residentsAccepted.add(resident)
         } else {
             for (i in 0 until residentsAccepted.size) {
-                if (isPreferredResident(resident, residentsAccepted.get(i))) {
+                if (isPreferredResident(resident, residentsAccepted[i])) {
                     residentsAccepted.add(i, resident)
                     break
+
                 }
             }
         }
@@ -89,22 +123,20 @@ class Hospital(hospitalName: String, limit: Int) {
         return removedResident
     }
 
-    fun limitReached() : Boolean {
+    private fun limitReached() : Boolean {
         return residentsAccepted.size >= this.limit
     }
 
     //Resident1 is higher in preference list than Resident2
-    fun isPreferredResident(resident1: Resident, resident2: Resident): Boolean {
+    private fun isPreferredResident(resident1: Resident, resident2: Resident): Boolean {
         return residentsPreferred.indexOf(resident1) < residentsPreferred.indexOf(resident2)
     }
 
-    fun lastAcceptedResident(): Resident {
+    private fun lastAcceptedResident(): Resident {
         return residentsAccepted.get(residentsAccepted.size - 1)
     }
 
-    fun lastAcceptedResidentRemoved(): Resident {
+    private fun lastAcceptedResidentRemoved(): Resident {
         return residentsAccepted.removeAt(residentsAccepted.size - 1)
     }
-
-
 }

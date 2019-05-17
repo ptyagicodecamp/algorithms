@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HRProblem/lesson1/task1/HRProblem-lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/HRProblem/lesson1/task1/HRProblem-lesson1-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HRProblem/HospitalResidentProblem/task1/HRProblem-HospitalResidentProblem-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/HRProblem/HospitalResidentProblem/task1/HRProblem-HospitalResidentProblem-task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithms.iml" filepath="$PROJECT_DIR$/.idea/algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/graphs/lesson1-graphs.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/graphs/lesson1-graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" />
