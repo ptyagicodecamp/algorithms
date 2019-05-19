@@ -1,7 +1,7 @@
 import org.junit.Test
 
 class Test {
-    @Test fun testConfig1() {
+    @Test fun testConfig1Verbose() {
 
         var mercy = Hospital("Mercy", 2)
         var city = Hospital("City", 2)
@@ -40,6 +40,60 @@ class Test {
 
 
         var matchedHospitals = HRProblem.matchResidentsToHospitalsv(residentsPref, hospitalsPref)
+
+        println("\n********\n")
+
+        for (i in 0 until matchedHospitals.size) {
+            var matchedHospital = matchedHospitals.get(i)
+
+            println("Residents matched for " + matchedHospitals.get(i).name)
+
+            for (r in 0 until matchedHospital.residentsAccepted.size) {
+                println("Resident " + r + ": " + matchedHospital.residentsAccepted.get(r).name)
+            }
+
+            println()
+        }
+    }
+    @Test fun testConfig1() {
+
+        var mercy = Hospital("Mercy", 2)
+        var city = Hospital("City", 2)
+        var general = Hospital("General", 2)
+
+        var arthur = Resident("Arthur")
+        var sunny = Resident("Sunny")
+        var joseph = Resident("Joseph")
+        var latha = Resident("Latha")
+        var darrius = Resident("Darrius")
+
+
+        var hospitalsPref = arrayListOf<Hospital>(
+                mercy.apply {
+                    residentsPreferred = arrayListOf(darrius, joseph) },
+                city.apply {
+                    residentsPreferred = arrayListOf(darrius, arthur, sunny, latha, joseph) },
+                general.apply {
+                    residentsPreferred = arrayListOf(darrius, arthur, joseph, latha) }
+        )
+
+
+        var residentsPref = arrayListOf<Resident>(
+                arthur.apply {
+                    hospitalsPreferred = arrayListOf(city)},
+                sunny.apply {
+                    hospitalsPreferred = arrayListOf(city, mercy)},
+                joseph.apply {
+                    hospitalsPreferred = arrayListOf(city, general, mercy)},
+                latha.apply {
+                    hospitalsPreferred = arrayListOf(mercy, city, general)},
+                darrius.apply {
+                    hospitalsPreferred = arrayListOf(city, mercy, general)}
+        )
+
+
+
+        var matchedHospitals = HRProblem.matchResidentsToHospitals(residentsPref, hospitalsPref)
 
         println("\n********\n")
 

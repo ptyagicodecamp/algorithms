@@ -49,12 +49,14 @@ object HRProblem{
     fun matchResidentsToHospitalsv(listOfResidents: ArrayList<Resident>,
                                   listOfHospitals: ArrayList<Hospital>): ArrayList<Hospital> {
 
+        listOfResidents.shuffle()
+        listOfHospitals.shuffle()
         var residents = listOfResidents
         var hospitals = listOfHospitals
 
         while (residents.isNotEmpty()) {
             var resident = residents.removeAt(0)
-            println("\nNew Resident trial for " + resident.name + "\n")
+            println("\n\nNew Resident trial for " + resident.name + "\n")
 
             while (resident.hospitalsPreferred.isNotEmpty()) {
                 var potentialHospital = resident.hospitalsPreferred.removeAt(0)
@@ -67,6 +69,9 @@ object HRProblem{
                     break
                 }
             }
+            for (hospital in hospitals) {
+                println(hospital.toResidentsAcceptedStr());
+            }
         }
 
         return hospitals
@@ -76,6 +81,10 @@ object HRProblem{
 class Resident(residentName: String) {
     var name = residentName
     var hospitalsPreferred = ArrayList<Hospital>()
+    override fun toString(): String {
+        return "Resident(name='$name')"
+    }
+
 }
 
 class Hospital(hospitalName: String, limit: Int) {
@@ -138,5 +147,9 @@ class Hospital(hospitalName: String, limit: Int) {
 
     private fun lastAcceptedResidentRemoved(): Resident {
         return residentsAccepted.removeAt(residentsAccepted.size - 1)
+    }
+
+    fun toResidentsAcceptedStr(): String {
+        return "Hospital(name='$name', residentsAccepted=$residentsAccepted)"
     }
 }

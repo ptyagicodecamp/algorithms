@@ -7,23 +7,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/HRProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/HRProblem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/Hospital.class" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/Hospital.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/META-INF/HRProblem-lesson1-task1.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/Resident.class" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/java/main/Resident.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/kotlin/test/META-INF/HRProblem-lesson1-task1.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/kotlin/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/classes/kotlin/test/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
@@ -31,34 +22,28 @@
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
@@ -66,16 +51,10 @@
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
@@ -83,21 +62,10 @@
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/src/Task.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/test/Tests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/test/Tests.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/graphs/build/distributions/lesson1-graphs.tar" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/graphs/build/distributions/lesson1-graphs.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/graphs/build/distributions/lesson1-graphs.zip" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/graphs/build/distributions/lesson1-graphs.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/graphs/build/kotlin/lesson1graphsjar-classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/graphs/build/kotlin/lesson1graphsjar-classes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/graphs/build/libs/lesson1-graphs.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/graphs/build/libs/lesson1-graphs.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/distributions/util.tar" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/distributions/util.tar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/distributions/util.zip" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/distributions/util.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/build/libs/util.jar" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/libs/util.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/lesson1/task1/out/" />
@@ -130,8 +98,8 @@
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="232">
-                  <caret line="64" column="57" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+                <MainEditorState relative-caret-position="300">
+                  <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
                   <folding>
                     <element signature="e#449#1313#0" />
                   </folding>
@@ -141,14 +109,33 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/d16c788b755be19bf8a7eace113755519a1d7182/kotlin-stdlib-1.3.31-sources.jar!/kotlin/collections/MutableCollectionsJVM.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/958c401b129f64de74af4b11a0894693edfa168d/kotlin-stdlib-common-1.3.31-sources.jar!/generated/_Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="475" column="36" selection-start-line="475" selection-start-column="36" selection-end-line="475" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/test/Tests.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="127">
-                  <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+                <MainEditorState relative-caret-position="4">
+                  <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="32" />
                   <folding>
+                    <element signature="e#1952#3807#0" />
                     <element signature="e#155#1947#0" />
                     <element signature="e#1982#3413#0" />
                   </folding>
@@ -178,8 +165,8 @@
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/HRProblem/lesson1/task1/src/Task.kt" />
         <option value="$PROJECT_DIR$/HRProblem/lesson1/task1/test/Tests.kt" />
-        <option value="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/src/Task.kt" />
         <option value="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/test/Tests.kt" />
+        <option value="$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -257,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.Test.testConfig1">
+  <component name="RunManager" selected="Android JUnit.Test.testConfig1Verbose">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -291,21 +278,22 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration name="BacktrackingTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lesson1-graphs" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BacktrackingTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test.testConfig1" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="HRProblem-HospitalResidentProblem-task1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test" />
       <option name="METHOD_NAME" value="testConfig1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testConfig1Verbose" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HRProblem-HospitalResidentProblem-task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testConfig1Verbose" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -369,19 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.BacktrackingTest" />
       <item itemvalue="Android JUnit.Test.testGraphAsList" />
       <item itemvalue="Android JUnit.Test.testHRAssignment" />
       <item itemvalue="Android JUnit.Test.testHRAssignmentMoreResidents" />
       <item itemvalue="Android JUnit.Test.testConfig1" />
+      <item itemvalue="Android JUnit.Test.testConfig1Verbose" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.Test.testConfig1Verbose" />
         <item itemvalue="Android JUnit.Test.testConfig1" />
         <item itemvalue="Android JUnit.Test.testHRAssignmentMoreResidents" />
         <item itemvalue="Android JUnit.Test.testHRAssignment" />
         <item itemvalue="Android JUnit.Test.testGraphAsList" />
-        <item itemvalue="Android JUnit.BacktrackingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -399,27 +387,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 10m 51s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 22m 00s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 22m 17s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 22m 54s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 23m 57s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 26m 03s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 26m 42s.xml">
-      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 31m 07s.xml">
       <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
     </history-entry>
@@ -428,6 +395,27 @@
     </history-entry>
     <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 34m 38s.xml">
       <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1 - 2019.05.17 at 16h 35m 55s.xml">
+      <configuration name="Test.testConfig1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 21h 59m 51s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 22h 04m 59s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 22h 06m 01s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 22h 12m 28s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 22h 13m 22s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_testConfig1Verbose - 2019.05.17 at 22h 13m 54s.xml">
+      <configuration name="Test.testConfig1Verbose" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -453,11 +441,11 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
-      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.17372262" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.90948904" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21751826" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.53138685" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.27445257" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329927" />
@@ -586,12 +574,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.31/958c401b129f64de74af4b11a0894693edfa168d/kotlin-stdlib-common-1.3.31-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="475" column="36" selection-start-line="475" selection-start-column="36" selection-end-line="475" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/d16c788b755be19bf8a7eace113755519a1d7182/kotlin-stdlib-1.3.31-sources.jar!/kotlin/collections/MutableCollectionsJVM.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HRProblem/HospitalResidentProblem/task1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="232">
-              <caret line="64" column="57" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+            <MainEditorState relative-caret-position="300">
+              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
               <folding>
                 <element signature="e#449#1313#0" />
               </folding>
@@ -604,9 +606,10 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="127">
-              <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+            <MainEditorState relative-caret-position="4">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="32" />
               <folding>
+                <element signature="e#1952#3807#0" />
                 <element signature="e#155#1947#0" />
                 <element signature="e#1982#3413#0" />
               </folding>
