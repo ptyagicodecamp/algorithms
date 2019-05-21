@@ -43,12 +43,12 @@
             <list>
               <Lesson>
                 <option name="customPresentableName" />
-                <option name="id" value="229672" />
+                <option name="id" value="0" />
                 <option name="index" value="1" />
-                <option name="name" value="lesson1" />
-                <option name="stepikChangeStatus" value="Up to date" />
-                <option name="updateDate" value="1557870445641" />
-                <option name="unitId" value="202192" />
+                <option name="name" value="StableMarriageProblem" />
+                <option name="stepikChangeStatus" value="Content changed" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
                 <option name="items">
                   <list>
                     <EduTask>
@@ -63,20 +63,20 @@
                       </option>
                       <option name="id" value="0" />
                       <option name="index" value="1" />
-                      <option name="name" value="task1" />
+                      <option name="name" value="HospitalResidentProblem" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
                       <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
                         <map>
-                          <entry key="src/Task.kt">
+                          <entry key="src/HospitalResidentProblem.kt">
                             <value>
                               <TaskFile>
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
-                                <option name="name" value="src/Task.kt" />
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/HospitalResidentProblem.kt" />
                                 <option name="text" value="// type your solution here" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -84,14 +84,66 @@
                               </TaskFile>
                             </value>
                           </entry>
-                          <entry key="test/Tests.kt">
+                          <entry key="test/HospitalResidentProblemTests.kt">
                             <value>
                               <TaskFile>
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
-                                <option name="name" value="test/Tests.kt" />
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/HospitalResidentProblemTests.kt" />
+                                <option name="text" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="0" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="0" />
+                      <option name="index" value="2" />
+                      <option name="name" value="ProjectStudentAssignment" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/ProjectStudentAssignmentTask.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/ProjectStudentAssignmentTask.kt" />
+                                <option name="text" value="// type your solution here" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/ProjectStudentAssignmentTests.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/ProjectStudentAssignmentTests.kt" />
                                 <option name="text" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -106,85 +158,6 @@
                   </list>
                 </option>
               </Lesson>
-              <Section>
-                <option name="courseId" value="0" />
-                <option name="customPresentableName" />
-                <option name="id" value="0" />
-                <option name="index" value="2" />
-                <option name="name" value="HRProblem" />
-                <option name="position" value="0" />
-                <option name="stepikChangeStatus" value="Content changed" />
-                <option name="updateDate" value="0" />
-                <option name="items">
-                  <list>
-                    <Lesson>
-                      <option name="customPresentableName" />
-                      <option name="id" value="0" />
-                      <option name="index" value="1" />
-                      <option name="name" value="HospitalResidentProblem" />
-                      <option name="stepikChangeStatus" value="Content changed" />
-                      <option name="updateDate" value="0" />
-                      <option name="unitId" value="0" />
-                      <option name="items">
-                        <list>
-                          <EduTask>
-                            <option name="customPresentableName" />
-                            <option name="descriptionFormat" value="HTML" />
-                            <option name="descriptionText" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;div class=&quot;hint&quot;&gt;&#10;  Hints can be added anywhere in task text: type &quot;hint&quot; and press Tab.&#10;&lt;/div&gt;&#10;&lt;/html&gt;" />
-                            <option name="feedbackLink">
-                              <FeedbackLink>
-                                <option name="link" />
-                                <option name="type" value="STEPIK" />
-                              </FeedbackLink>
-                            </option>
-                            <option name="id" value="0" />
-                            <option name="index" value="1" />
-                            <option name="name" value="task1" />
-                            <option name="record" value="-1" />
-                            <option name="status" value="Unchecked" />
-                            <option name="stepikChangeStatus" value="Up to date" />
-                            <option name="files">
-                              <map>
-                                <entry key="src/Task.kt">
-                                  <value>
-                                    <TaskFile>
-                                      <option name="answerPlaceholders">
-                                        <list />
-                                      </option>
-                                      <option name="highlightErrors" value="true" />
-                                      <option name="name" value="src/Task.kt" />
-                                      <option name="text" value="// type your solution here" />
-                                      <option name="trackChanges" value="true" />
-                                      <option name="trackLengths" value="true" />
-                                      <option name="visible" value="true" />
-                                    </TaskFile>
-                                  </value>
-                                </entry>
-                                <entry key="test/Tests.kt">
-                                  <value>
-                                    <TaskFile>
-                                      <option name="answerPlaceholders">
-                                        <list />
-                                      </option>
-                                      <option name="highlightErrors" value="true" />
-                                      <option name="name" value="test/Tests.kt" />
-                                      <option name="text" value="import org.junit.Assert&#10;import org.junit.Test&#10;&#10;class Test {&#10;    @Test fun testSolution() {&#10;        //TODO: implement your test here&#10;        Assert.assertTrue(&quot;Tests not implemented for the task&quot;, false)&#10;    }&#10;}" />
-                                      <option name="trackChanges" value="true" />
-                                      <option name="trackLengths" value="true" />
-                                      <option name="visible" value="false" />
-                                    </TaskFile>
-                                  </value>
-                                </entry>
-                              </map>
-                            </option>
-                            <option name="updateDate" value="0" />
-                          </EduTask>
-                        </list>
-                      </option>
-                    </Lesson>
-                  </list>
-                </option>
-              </Section>
             </list>
           </option>
         </EduCourse>
